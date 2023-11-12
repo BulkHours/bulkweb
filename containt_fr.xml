@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu>
+    <mhome>Accueil</mhome>
+    <mservices>Services</mservices>
+    <mabout>A propos</mabout>
+    <mteam>Equipe</mteam>
+    <mdemo>Demo</mdemo>
+    <mpricing>Formules</mpricing>
+    <mcontact>Contact</mcontact>
+    <mtest>Témoignages</mtest>
+
+    <htitle><![CDATA[<h2>Plateforme <b>interactive en temps réel</b><br/>pour la formation et l'enseignement supérieur</h2>
+    <p>Support de cours avec évaluation automatique du contrôle continu.</p>
+    <a class='btn btn-primary btn-lg' style='width: 250px;' href='mailto:contact@bulkhours.eu'>Essayer maintenant</a>]]></htitle>
+
+    <stitle>Services</stitle>
+    <sfollow>Suivi en direct du travail des étudiants</sfollow>
+    <seval>Evaluation automatique des exercices</seval>
+    <saccess>Accès à une base de données de support de cours</saccess>
+    <senv>Environnement de travail adapté au Machine Learning (GPU)</senv>
+    <srattr>Génération de programmes de rattrapage personnalisés</srattr>
+    <scons>Fabrication d'outils pédagogiques personnalisés</scons>
+
+    <s1price>Gratuit</s1price>
+    <s1duration><![CDATA[<i class="fa fa-user" style="text-align:center"></i>]]></s1duration>
+    <s1title>Etudiant</s1title>
+    <s1offer><![CDATA[<li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Accès à la base de connaissances
+    </strong></li><li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Accès à la documentation
+    </strong></li>]]></s1offer>
+
+    <s2price>Sur devis</s2price>
+    <s2duration><![CDATA[<i class="fa fa-users" style="text-align:center"></i>]]></s2duration>
+    <s2title>Enseignant</s2title>
+    <s2offer><![CDATA[<li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Toute l'offre ETUDIANT
+    </strong></li><li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Monitoring des étudiants en temps réel
+    </strong></li><li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Evaluations automatiques
+    </strong></li>]]></s2offer>
+
+    <s3price>Sur devis</s3price>
+    <s3duration><![CDATA[<i class="fa fa-mortar-board" style="text-align:center"></i>]]></s3duration>
+    <s3title>Professeur</s3title>
+    <s3offer><![CDATA[<li><i class="fa fa-check"></i> <strong>
+Toute l'offre ENSEIGNANT
+    </strong></li><li><i class="fa fa-check"></i> <strong>
+Monitoring des étudiants en temps réel
+    </strong> <i class="fa fa-users"></i></li><li><i class="fa fa-check"></i> <strong>
+Evaluations automatiques avec IA Generative
+    </strong></li><li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Accès à une plateforme de calcul GPU
+    </strong></li><li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Equipe de support très réactive
+    </strong></li><li><i class="fa fa-cog" style="text-align:center"></i> 
+Génération de parcours de mise à niveau personnalisé
+    </li>]]></s3offer>
+
+    <s4price>Sur devis</s4price>
+    <s4duration><![CDATA[<i class="fa fa-institution" style="text-align:center"></i>]]></s4duration>
+    <s4title>INSTITUTION</s4title>
+    <s4offer><![CDATA[<li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Toute l'offre PROFESSEUR
+    </strong></li><li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Fabrication de contenu de cours (avec IA Generative)
+    </strong></li><li><i class="fa fa-cog" style="text-align:center"></i> 
+Fabrication d'outils personalisés à l'institution
+    </li><li><i class="fa fa-cog" style="text-align:center"></i>
+Intégration de la plateforme à votre plateforme éducative
+    </li><li><i class="fa fa-cog" style="text-align:center"></i>
+Integration avec votre EMS
+    </li>]]></s4offer>
+
+    <sbutton>Souscrire !</sbutton>
+
+    <tabout>A propos</tabout>
+    <tcontaint><![CDATA[<p class="wow fadeInDown">
+    Il était une fois un enseignant qui...<br/>
+    </p>]]></tcontaint>
+
+</menu>

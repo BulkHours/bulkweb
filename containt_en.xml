@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu>
+    <mhome>Home</mhome>
+    <mservices>Services</mservices>
+    <mabout>About</mabout>
+    <mteam>Team</mteam>
+    <mdemo>Demo</mdemo>
+    <mpricing>Pricing</mpricing>
+    <mcontact>Contact</mcontact>
+    <mtest>Testimonial</mtest>
+
+    <htitle><![CDATA[<h2>Teaching plateform with <b> real-time interaction</b><br/>dedicated to higher education</h2>
+    <p>Support for courses with automatic evaluation of students.</p>
+    <a class='btn btn-primary btn-lg' href='mailto:contact@bulkhours.eu'>Start Now</a>]]></htitle>
+
+    <stitle>Services</stitle>
+    <sfollow>Live monitoring of student work</sfollow>
+    <seval>Automatic evaluation of the exercices</seval>
+    <saccess>Access to practical course database</saccess>
+    <senv>Working environment adapted to Machine Lerning (GPU)</senv>
+    <srattr>Generation of personalized catch-up programs</srattr>
+    <scons>Personalized manufacturing of pedagogical tools</scons>
+
+    <s1price>Free</s1price>
+    <s1duration><![CDATA[<i class="fa fa-user" style="text-align:center"></i>]]></s1duration>
+    <s1title>STUDENT</s1title>
+    <s1offer><![CDATA[<li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Access to the knowledge database
+    </strong></li><li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Documentation support
+    </strong></li>]]></s1offer>
+
+    <s2price>On demand</s2price>
+    <s2duration><![CDATA[<i class="fa fa-users" style="text-align:center"></i>]]></s2duration>
+    <s2title>TEACHER</s2title>
+    <s2offer><![CDATA[<li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Everything in Student
+    </strong></li><li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Real-time student monitoring
+    </strong></li><li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Automatic evaluations
+    </strong></li>]]></s2offer>
+
+    <s3price>On demand</s3price>
+    <s3duration><![CDATA[<i class="fa fa-mortar-board" style="text-align:center"></i>]]></s3duration>
+    <s3duration></s3duration>
+    <s3title>PROFESSOR</s3title>
+    <s3offer><![CDATA[<li><i class="fa fa-check"></i> <strong>
+Everything in Teacher
+    </strong></li><li><i class="fa fa-check"></i> <strong>
+Real-time monitoring
+    </strong> <i class="fa fa-users"></i></li><li><i class="fa fa-check"></i> <strong>
+Automatic evaluations with Generative AI
+    </strong></li><li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Access to GPU calculation platform
+    </strong></li><li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Reactive support team
+    </strong></li><li><i class="fa fa-cog" style="text-align:center"></i>
+Generation of personalized support
+</li>]]></s3offer>
+
+    <s4price>On demand</s4price>
+    <s4duration><![CDATA[<i class="fa fa-institution" style="text-align:center"></i>]]></s4duration>
+    <s4title>INSTITUTION</s4title>
+    <s4offer><![CDATA[<li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Everything in Professor
+    </strong></li><li><i class="fa fa-check" style="text-align:center"></i> <strong>
+Courses generation (Generative AI)
+    </strong></li><li><i class="fa fa-cog" style="text-align:center"></i>
+Personalized tools for your institution
+    </li><li><i class="fa fa-cog" style="text-align:center"></i>
+Full integration of the platform in your system
+    </li><li><i class="fa fa-cog" style="text-align:center"></i>
+Integration with your EMS</li>
+                            ]]></s4offer>
+
+    <sbutton>Get it now !</sbutton>
+
+
+
+
+    <tabout>About</tabout>
+    <tcontaint><![CDATA[<p class="wow fadeInDown">
+    Il était une fois un enseignant...<br/>
+    </p>]]></tcontaint>
+
+</menu>
