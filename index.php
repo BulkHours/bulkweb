@@ -211,6 +211,10 @@ OUR TRAINERS
         </div>
     </section -->
 
+    <!--section id="COMMENTS">
+Inpspiration for pricing:
+- https://retool.com/eu/pricing
+</section -->
   <section id="portfolio">
         <div class="container">
             <div class="section-header">
