@@ -63,10 +63,10 @@ if ($is_en) {
 
 if ($is_en) {
     print '<a href="/?lan=fr" style="text-align: center; text-decoration: none; display: inline-block;">';
-    print('<img alt="" src="FR.png" width="20px" class="img-unselected" /> <img alt="" src="UK.png" width="20px" /></a>');
+    print('<img alt="" src="images/FR.png" width="20px" class="img-unselected" /> <img alt="" src="images/UK.png" width="20px" /></a>');
 } else {
     print '<a href="/?lan=en" style="text-align: center; text-decoration: none; display: inline-block;">';
-    print('<img alt="" src="FR.png" width="20px" /> <img alt="" src="UK.png" width="20px" class="img-unselected" /></a>');
+    print('<img alt="" src="images/FR.png" width="20px" /> <img alt="" src="images/UK.png" width="20px" class="img-unselected" /></a>');
 }
 ?>
                     </li>              
@@ -336,7 +336,7 @@ OUR TRAINERS
     </section -->
 
   
-    <section class="testimonial-area" id="testimonial">
+    <!--section class="testimonial-area" id="testimonial">
 			<div class="container">
 				<div class="section-header">
                 <h2 class="section-title wow fadeInDown"><?php echo $xml->mtest;?></h2>
@@ -371,7 +371,7 @@ OUR TRAINERS
 					</div>
 				</div>
 			</div>
-		</section>
+		</section-->
     <!--section id="contact-us">
         <div class="container">
             <div class="section-header">
