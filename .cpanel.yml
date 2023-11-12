@@ -6,7 +6,7 @@ deployment:
     - /bin/cp about.html $DEPLOYPATH
     - /bin/cp bulkhours.html $DEPLOYPATH
     - /bin/cp containt_en.xml $DEPLOYPATH
-    - /bin/cp containt_fr.html $DEPLOYPATH
+    - /bin/cp containt_fr.xml $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
     - /bin/cp -R fonts $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
