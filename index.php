@@ -216,9 +216,9 @@ OUR TRAINERS
             <div class="section-header">
                 <h2 class="section-title wow fadeInDown">Demo</h2>
             </div>
-            <video autoplay muted loop>
-                <source src="images/Bulkhours_eu.mp4" type="video/mp4" />
-            </video>
+            <video autoplay="" controls=""><source src="images/Bulkhours_eu.mp4" type="video/mp4" />Your browser does not support the video tag.</video>
+
+            <video autoplay loop><source src="images/Bulkhours_eu.mp4" type="video/mp4" />Your browser does not support the video tag.</video>
 
 
         </div><!--/.container-->
