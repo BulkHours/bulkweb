@@ -281,7 +281,7 @@ Inpspiration for pricing:
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="wow zoomIn" data-wow-duration="400ms" data-wow-delay="600ms">
-                        <ul class="pricing" style="height: 700px;">
+                        <ul class="pricing" style="height: 730px;">
                             <li class="plan-header">
                                 <div class="price-duration">
                                     <span class="price" style="text-align:center"><?php echo $xml->s4price;?></span>
