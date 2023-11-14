@@ -259,7 +259,7 @@ Inpspiration for pricing:
                                 <div class="plan-name" style="text-align:center"><?php echo $xml->s2title;?></div>
                             </li>
                             <?php echo $xml->s2offer;?>
-                            <li class="plan-purchase"><a class="btn btn-primary" href="mailto:contact@bulkhours.eu"><?php echo $xml->sbutton;?></a></li>
+                            <li class="plan-purchase"><a class="btn btn-primary" href="https://meetings-eu1.hubspot.com/guillaume-therin"><?php echo $xml->sbutton;?></a></li>
                         </ul>
                     </div>
                 </div>
@@ -275,7 +275,7 @@ Inpspiration for pricing:
                                 <div class="plan-name" style="text-align:center"><?php echo $xml->s3title;?></div>
                             </li>
                             <?php echo $xml->s3offer;?>
-                            <li class="plan-purchase"><a class="btn btn-primary" href="mailto:contact@bulkhours.eu"><?php echo $xml->sbutton;?></a></li>
+                            <li class="plan-purchase"><a class="btn btn-primary" href="https://meetings-eu1.hubspot.com/guillaume-therin"><?php echo $xml->sbutton;?></a></li>
                         </ul>
                     </div>
                 </div>
@@ -291,7 +291,7 @@ Inpspiration for pricing:
                                 <div class="plan-name" style="text-align:center"><?php echo $xml->s4title;?></div>
                             </li>
                             <?php echo $xml->s4offer;?>
-                            <li class="plan-purchase"><a class="btn btn-primary" href="mailto:contact@bulkhours.eu"><?php echo $xml->sbutton;?></a></li>
+                            <li class="plan-purchase"><a class="btn btn-primary" href="https://meetings-eu1.hubspot.com/guillaume-therin"><?php echo $xml->sbutton;?></a></li>
                         </ul>
                     </div>
                 </div>
@@ -445,6 +445,7 @@ Inpspiration for pricing:
                 </div>
                 <div class="col-sm-6">
                     <ul class="social-icons">
+                        <li><a href="https://meetings-eu1.hubspot.com/guillaume-therin"><i class="fa fa-users"></i></a></li> 
                         <li><a href="mailto:contact@bulkhours.eu"><i class="fa fa-envelope"></i></a></li> 
                         <li><a href="https://www.linkedin.com/in/guillaume-therin/"><i class="fa fa-linkedin"></i></a></li> 
                         <li><a href="https://github.com/gtherin/bulkhours"><i class="fa fa-github"></i></a></li>
